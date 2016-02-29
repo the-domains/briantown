@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[briantown]]></title>
         <description><![CDATA[briantown]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/briantown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 04:08:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 18:11:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/briantown/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Leadership, business, entrepreneurship, and getting healthy. ]]></title>
-            <description><![CDATA[<article><h1>Leadership, business, entrepreneurship, and getting healthy. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95fd57a4-9247-4c4f-8c1b-20785408f92f.jpg"></article>]]></description>
-            <link>undefinedleadership-business-entrepreneurship-and-getting-healthy/index.html</link>
+            <description><![CDATA[<article><h1>Leadership, business, entrepreneurship, and getting healthy. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf841e0233e42e2eee98eb09e90522e06b2ca437.jpg"></article>]]></description>
+            <link>https://thegrid.ai/briantown/leadership-business-entrepreneurship-and-getting-healthy/index.html</link>
             <guid isPermaLink="false">e3b08fbd-d307-4ccf-873a-113de9d6f10d</guid>
-            <pubDate>Mon, 29 Feb 2016 04:06:08 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 18:11:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
