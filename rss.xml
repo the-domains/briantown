@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[briantown]]></title>
+        <description><![CDATA[briantown]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 04:08:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leadership, business, entrepreneurship, and getting healthy. ]]></title>
+            <description><![CDATA[<article><h1>Leadership, business, entrepreneurship, and getting healthy. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95fd57a4-9247-4c4f-8c1b-20785408f92f.jpg"></article>]]></description>
+            <link>undefinedleadership-business-entrepreneurship-and-getting-healthy/index.html</link>
+            <guid isPermaLink="false">e3b08fbd-d307-4ccf-873a-113de9d6f10d</guid>
+            <pubDate>Mon, 29 Feb 2016 04:06:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
