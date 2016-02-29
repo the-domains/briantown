@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T04:06:08.004Z'
-dateModified: '2016-02-29T04:06:05.904Z'
+datePublished: '2016-02-29T18:11:12.394Z'
+dateModified: '2016-02-29T18:11:12.156Z'
 title: "Leadership, business, entrepreneurship, and getting healthy.\_"
 author: []
+sourcePath: _posts/2016-02-29-leadership-business-entrepreneurship-and-getting-healthy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-leadership-business-entrepreneurship-and-getting-healthy.md
-published: true
 url: leadership-business-entrepreneurship-and-getting-healthy/index.html
 _type: Article
 
